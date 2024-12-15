@@ -2,20 +2,16 @@
 <p align="center">
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
-**Desarrollador de Software y Estudiante de Ingeniería en Informática**\
-**Actualmente aprendiendo y construyendo proyectos asombrosos!**
+Desarrollador de Software y Estudiante de Ingeniería en Informática.
+Actualmente aprendiendo y construyendo proyectos asombrosos!
 
----
-
-### Tecnologías y Herramientas 🚀
+Tecnologías y Herramientas 🚀
 
 &#x20;    &#x20;
 
----
+ Sobre Mí 😍
 
-### Sobre Mí 😍
-
-¡Hola! Mi nombre es **Matías Santelices**. Soy un **estudiante de Ingeniería en Informática de 20 años** apasionado por la tecnología y el desarrollo web. Trabajo con **Django, Ionic, TypeScript, React, Tailwind CSS** y más. También estoy en proceso de aprender inglés para ampliar mis habilidades de comunicación.\
+¡Hola! Mi nombre es Matías Santelices. Soy un estudiante de Ingeniería en Informática de 20 años apasionado por la tecnología y el desarrollo web. Trabajo con **Django, Ionic, TypeScript, React, Tailwind CSS** y más. También estoy en proceso de aprender inglés para ampliar mis habilidades de comunicación.\
 Siempre estoy buscando nuevos desafíos y oportunidades para crecer como desarrollador. Me encanta crear aplicaciones y sitios web con diseños modernos y responsivos.
 
 **Actualmente Trabajando En**
