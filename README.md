@@ -1,7 +1,5 @@
 # ¡Hola! 👋 Soy Matías Santelices
-<p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Sumanth-Talluri" />
-</p>
+
 **Desarrollador de Software y Estudiante de Ingeniería en Informática**\
 **Actualmente aprendiendo y construyendo proyectos asombrosos!**
 
