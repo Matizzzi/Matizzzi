@@ -2,8 +2,6 @@
 <p align="center">
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 Desarrollador de Software y Estudiante de Ingeniería en Informática.
 Actualmente aprendiendo y construyendo proyectos asombrosos!
 
