@@ -1,5 +1,7 @@
 # ¡Hola! 👋 Soy Matías Santelices
-
+<p align="center">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+</p>
 **Desarrollador de Software y Estudiante de Ingeniería en Informática**\
 **Actualmente aprendiendo y construyendo proyectos asombrosos!**
 
